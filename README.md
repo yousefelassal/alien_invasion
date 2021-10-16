@@ -17,3 +17,6 @@ Use arrow keys to move in canvas:
 * &#8592; move left
 
 and <kbd>Space</kbd> to shoot.
+
+## Screenshot
+![Screenshot of game](alien_invasion/Screenshot.png)
