@@ -7,9 +7,12 @@ player fights aliens that are trying to take control of the Earth using a spaces
 - Pygame from [here](http://www.pygame.org/download.shtml)
 
 ## Usage
-to start the game run
-`python alien_invasion.py`
+to start the game run  
+```
+python alien_invasion.py
+```
 
 Use arrow keys to move in canvas:
 * &#8594; move right
-* &#8592; move left<br/>and <kbd>Space</kbd> to shoot.
+* &#8592; move left
+<br/>and <kbd>Space</kbd> to shoot.
