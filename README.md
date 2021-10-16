@@ -16,4 +16,4 @@ Use arrow keys to move in canvas:
 * &#8594; move right
 * &#8592; move left
 
-<br/>and <kbd>Space</kbd> to shoot.
+and <kbd>Space</kbd> to shoot.
